@@ -6,9 +6,8 @@ module.exports = {
     'src/polyfills.js',
     'src/index.js'
   ],
-  output: {
-    dir: 'docs',
-  },
+  dist: 'docs',
+  homepage: '/puzzle-game/',
   html: {
     title: pkg.productName,
     description: pkg.description,

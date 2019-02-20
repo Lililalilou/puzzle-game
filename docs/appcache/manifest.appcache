@@ -1,0 +1,29 @@
+CACHE MANIFEST
+#ver:2019-2-20 15:18:47
+#plugin:4.9.1
+
+CACHE:
+/puzzle-game/assets/fonts/bubblegums.468d6c1f.ttf
+/puzzle-game/assets/images/BG.05cb2928.png
+/puzzle-game/assets/images/Jelly (1).2497ef81.png
+/puzzle-game/assets/images/Jelly (2).3af8974c.png
+/puzzle-game/assets/images/Jelly (3).155be215.png
+/puzzle-game/assets/images/Jelly (4).cfe143bd.png
+/puzzle-game/assets/images/Jelly (5).2b9de6c1.png
+/puzzle-game/assets/images/Jelly (6).b35bfba1.png
+/puzzle-game/client.c0b035f1.js
+/puzzle-game/vendor.fad025e3.js
+/puzzle-game/manifest.c20cb87f.js
+/puzzle-game/client.1a277ca3.css
+/puzzle-game/vendor.653da357.css
+/puzzle-game/icons/android-chrome-192x192.png
+/puzzle-game/manifest.json
+/puzzle-game/favicon.ico
+/puzzle-game/icons/android-chrome-512x512.png
+/puzzle-game/
+
+NETWORK:
+*
+
+FALLBACK:
+/ /
